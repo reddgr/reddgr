@@ -24,7 +24,8 @@ I am an Information and Communications Technology Engineer and Business Consulta
 
 Visit my website [Talking to Chatbots](https://talkingtochatbots.com/) and connect with me on [social media](https://beacons.ai/reddgr).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddgr&theme=tokyonight)
+## My GitHub Public Repo Stats 📊 
 
+The stats below only reflect my public contributions:<br>
 
-![Reddgr's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddgr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddgr&theme=tokyonight&&langs_count=7&size_weight=0.1&count_weight=0.9)
