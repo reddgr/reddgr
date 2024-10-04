@@ -23,3 +23,5 @@ I am an Information and Communications Technology Engineer and Business Consulta
 - I love cycling 🚲, outdoor sports 🏔️, and all things popular culture 🎧📖🎬 and entertainment 🎮🎫📺.
 
 Visit my website [Talking to Chatbots](https://talkingtochatbots.com/) and connect with me on [social media](https://beacons.ai/reddgr).
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddgr&theme=tokyonight)
