@@ -29,3 +29,16 @@ Visit my website [Talking to Chatbots](https://talkingtochatbots.com/) and conne
 The stats below only reflect my public contributions:<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddgr&theme=tokyonight&&langs_count=7&size_weight=0.1&count_weight=0.9)
+
+## Gist Cards 💻
+
+Sometimes, I feel like creating a GitHub repo is not worth the time, but creating a simple Gist is quick and might help people. Below I share a few examples from my [Gists page](https://gist.github.com/reddgr):
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b26dbc95d481a3db58f532b9808000fe\&show_owner=true)](https://gist.github.com/reddgr/b26dbc95d481a3db58f532b9808000fe)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b6ba43972ab34256318ad6bad038f98f\&show_owner=true)](https://gist.github.com/reddgr/b6ba43972ab34256318ad6bad038f98f)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=6f9f785c79d14c2672e561f9064f7dfb\&show_owner=true)](https://gist.github.com/reddgr/6f9f785c79d14c2672e561f9064f7dfb)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=ba02c4eebdc511fc98927929c86b23bc\&show_owner=true)](https://gist.github.com/reddgr/ba02c4eebdc511fc98927929c86b23bc)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=20c2e3ea205d1fedfdc8be94dc5c1237\&show_owner=true)](https://gist.github.com/reddgr/20c2e3ea205d1fedfdc8be94dc5c1237)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=00ae2a3ab8eed7b7a330b0af2131ec70\&show_owner=true)](https://gist.github.com/reddgr/00ae2a3ab8eed7b7a330b0af2131ec70)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=63892a261f679dc754adca52844b5daf\&show_owner=true)](https://gist.github.com/reddgr/63892a261f679dc754adca52844b5daf)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=355252507defd7cca0cbf986a4c94608\&show_owner=true)](https://gist.github.com/reddgr/355252507defd7cca0cbf986a4c94608)
