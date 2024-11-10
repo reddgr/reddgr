@@ -26,6 +26,8 @@ Visit my website [Talking to Chatbots](https://talkingtochatbots.com/) and conne
 
 ## My GitHub Repo Stats 📊 
 
+All repos including private ones:
+
 ![Top Langs](https://github-readme-stats-phi-ashy-34.vercel.app/api/top-langs/?username=reddgr&theme=tokyonight&&langs_count=20&size_weight=0.1&count_weight=0.9)
 
 The stats below only reflect my public contributions:<br>
