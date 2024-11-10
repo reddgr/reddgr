@@ -44,3 +44,5 @@ Sometimes, I feel like creating a GitHub repo is not worth the time, but creatin
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=00ae2a3ab8eed7b7a330b0af2131ec70\&show_owner=true)](https://gist.github.com/reddgr/00ae2a3ab8eed7b7a330b0af2131ec70)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=63892a261f679dc754adca52844b5daf\&show_owner=true)](https://gist.github.com/reddgr/63892a261f679dc754adca52844b5daf)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=355252507defd7cca0cbf986a4c94608\&show_owner=true)](https://gist.github.com/reddgr/355252507defd7cca0cbf986a4c94608)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=ea334a1a3296cb9c858bb9c96c4bc7b6\&show_owner=true)](https://gist.github.com/reddgr/ea334a1a3296cb9c858bb9c96c4bc7b6)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=fca817e1fa208f066404ef4b7366725f\&show_owner=true)](https://gist.github.com/reddgr/fca817e1fa208f066404ef4b7366725f)
