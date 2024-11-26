@@ -24,6 +24,8 @@ I am an Information and Communications Technology Engineer and Business Consulta
 
 Visit my website [Talking to Chatbots](https://talkingtochatbots.com/) and connect with me on [social media](https://beacons.ai/reddgr).
 
+![Talking to Chatbots (TTCB) website logo](https://talkingtochatbots.com/wp-content/uploads/2024/10/TTCB-logo-talking-to-chatbots-blog-v11.png)
+
 ## My GitHub Repo Stats 📊 
 
 All repos including private ones:
@@ -36,7 +38,7 @@ The stats below only reflect my public contributions:<br>
 
 ## Gist Cards 💻
 
-Sometimes, I feel like creating a GitHub repo is not worth the time, but creating a simple Gist is quick and might help people. Below I share a few examples from my [Gists page](https://gist.github.com/reddgr):
+Sometimes, creating a GitHub repo is not worth the time, but creating a simple Gist is quick and might help people. Below I share a few examples from my [Gists page](https://gist.github.com/reddgr):
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b26dbc95d481a3db58f532b9808000fe\&show_owner=true)](https://gist.github.com/reddgr/b26dbc95d481a3db58f532b9808000fe)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b6ba43972ab34256318ad6bad038f98f\&show_owner=true)](https://gist.github.com/reddgr/b6ba43972ab34256318ad6bad038f98f)
