@@ -24,7 +24,11 @@ I am an Information and Communications Technology Engineer and Business Consulta
 
 Visit my website [Talking to Chatbots](https://talkingtochatbots.com/) and connect with me on [social media](https://beacons.ai/reddgr).
 
-![Talking to Chatbots (TTCB) website logo](https://talkingtochatbots.com/wp-content/uploads/2024/10/TTCB-logo-talking-to-chatbots-blog-v11.png)
+
+[![Talking to Chatbots (TTCB) website logo](https://talkingtochatbots.com/wp-content/uploads/2024/10/TTCB-logo-talking-to-chatbots-blog-v11.png)](https://talkingtochatbots.com)
+[![Reddgr on HuggingFace](https://talkingtochatbots.com/wp-content/uploads/2024/02/hf-logo-100x100.png)](https://huggingface.co/reddgr)
+<br>
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=davidgonzalezromero" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Follow David González Romero on LinkedIn"></a>
 
 ## My GitHub Repo Stats 📊 
 
