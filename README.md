@@ -22,7 +22,7 @@ I am an Information and Communications Technology Engineer and Business Consulta
 - 📚 🤖 Currently, I'm pursuing a master's degree in **Artificial Intelligence Applied to Financial Markets**, and managing **Talking to Chatbots**, a website dedicated to generative AI projects, popular culture, and education, available at https://talkingtochatbots.com.
 - **I love cycling** 🚲, outdoor sports 🏔️, and all things popular culture 🎧 📖 🎬 and entertainment 🎮 🎫 📺.
 
-Visit my website [Talking to Chatbots](https://talkingtochatbots.com/) and connect with me on [social media](https://beacons.ai/reddgr).
+Visit my website [Talking to Chatbots](https://talkingtochatbots.com/) and connect with me on [social media](https://talkingtochatbots.com/social).
 
 
 [![Talking to Chatbots (TTCB) website logo](https://talkingtochatbots.com/wp-content/uploads/2024/10/TTCB-logo-talking-to-chatbots-blog-v11.png)](https://talkingtochatbots.com)
