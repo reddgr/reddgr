@@ -34,7 +34,13 @@ Visit my website [Talking to Chatbots](https://talkingtochatbots.com/) and conne
 
 All repos including private ones:
 
+<img src="https://talkingtochatbots.com/wp-content/uploads/2025/01/gh-readme-stats_0.png" alt="Bar chart titled Most Used Languages, displaying the percentage usage of programming and markup languages. Jupyter Notebook leads with 19.42 percent, followed by HTML at 18.98 percent, R at 12.5 percent, Python at 9.63 percent, PHP at 8.11 percent, Java at 5.4 percent, CSS at 5.33 percent, JavaScript at 3.4 percent, Dockerfile at 3.1 percent, Shell at 2.43 percent, XSLT at 1.64 percent, Solidity at 1.61 percent, C at 1.39 percent, Ada at 1.31 percent, Batchfile at 1.31 percent, Perl at 1.27 percent, BASIC at 1.16 percent, MATLAB at 1.11 percent, and TypeScript at 1.05 percent. Alt text by ALT Text Artist GPT" width="300"/>
+<!--
+Commenting the Vercel app call and replacing the output by a static image not to exceed GitHub API limits:
 ![Top Langs](https://github-readme-stats-phi-ashy-34.vercel.app/api/top-langs/?username=reddgr&theme=tokyonight&&langs_count=20&size_weight=0.1&count_weight=0.9)
+-->
+
+
 
 The stats below only reflect my public contributions:<br>
 
