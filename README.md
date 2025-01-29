@@ -49,6 +49,8 @@ The stats below only reflect my public contributions:<br>
 
 Sometimes, creating a GitHub repo is not worth the time, but creating a simple Gist is quick and might help people. Below I share a few examples from my [Gists page](https://gist.github.com/reddgr):
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=8b1cada2380bcbfbf9c6d6a570906808\&show_owner=true)](https://gist.github.com/reddgr/8b1cada2380bcbfbf9c6d6a570906808)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2be4d158e7568f4788138e038ca7cb51\&show_owner=true)](https://gist.github.com/reddgr/2be4d158e7568f4788138e038ca7cb51)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b26dbc95d481a3db58f532b9808000fe\&show_owner=true)](https://gist.github.com/reddgr/b26dbc95d481a3db58f532b9808000fe)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b6ba43972ab34256318ad6bad038f98f\&show_owner=true)](https://gist.github.com/reddgr/b6ba43972ab34256318ad6bad038f98f)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=6f9f785c79d14c2672e561f9064f7dfb\&show_owner=true)](https://gist.github.com/reddgr/6f9f785c79d14c2672e561f9064f7dfb)
