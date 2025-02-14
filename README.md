@@ -47,7 +47,7 @@ The stats below only reflect my public contributions:<br>
 
 ## Gist Cards 💻
 
-Sometimes, creating a GitHub repo is not worth the time, but creating a simple Gist is quick and might help people. Below I share a few examples from my [Gists page](https://gist.github.com/reddgr):
+Sometimes, creating a GitHub repo is not worth the time, but creating a simple Gist is quick and might be useful to others. Below I share a few examples from my [Gists page](https://gist.github.com/reddgr):
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=8b1cada2380bcbfbf9c6d6a570906808\&show_owner=true)](https://gist.github.com/reddgr/8b1cada2380bcbfbf9c6d6a570906808)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2be4d158e7568f4788138e038ca7cb51\&show_owner=true)](https://gist.github.com/reddgr/2be4d158e7568f4788138e038ca7cb51)
