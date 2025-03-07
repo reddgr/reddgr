@@ -63,6 +63,8 @@ Sometimes, creating a new GitHub repo is not worth the time, but creating a simp
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=355252507defd7cca0cbf986a4c94608\&show_owner=true)](https://gist.github.com/reddgr/355252507defd7cca0cbf986a4c94608)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=ea334a1a3296cb9c858bb9c96c4bc7b6\&show_owner=true)](https://gist.github.com/reddgr/ea334a1a3296cb9c858bb9c96c4bc7b6)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=fca817e1fa208f066404ef4b7366725f\&show_owner=true)](https://gist.github.com/reddgr/fca817e1fa208f066404ef4b7366725f)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=87387d917738d7d6ec609fb536b88908\&show_owner=true)](https://gist.github.com/reddgr/87387d917738d7d6ec609fb536b88908)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=8b1cada2380bcbfbf9c6d6a570906808\&show_owner=true)](https://gist.github.com/reddgr/8b1cada2380bcbfbf9c6d6a570906808)
 
 ## Conclusion
 
